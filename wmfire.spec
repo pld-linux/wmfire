@@ -22,6 +22,10 @@ very little CPU. It has options for cyanish or orange/red flames, you
 can even set it to display your motherboard temperature through
 lm_sensors.
 
+%description -l pl
+wmfire jest apletem pod X który generuje ogieñ  w zale¿no¶ci od stopnia
+u¿ycia procesora 
+
 %prep
 %setup -q
 
