@@ -2,7 +2,7 @@ Summary:	Program that displays CPU load as fire in a small icon
 Summary(pl):	Aplet pokazuj±cy obci±¿enie CPU w ma³ym okienku
 Name:		wmfire
 Version:	0.0.3.9pre4
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications/Multimedia
 Source0:	%{name}-%{version}.tar.bz2
