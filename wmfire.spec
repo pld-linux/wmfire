@@ -45,12 +45,11 @@ install -d $RPM_BUILD_ROOT%{_bindir}
 
 install wmfire fireload_cpu fireload_file  $RPM_BUILD_ROOT%{_bindir}
 
-gzip -9nf README ChangeLog NEWS AUTHORS CREDITS
 
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc *.gz
+%doc README ChangeLog NEWS AUTHORS CREDITS
 %attr(755,root,root) %{_bindir}/*
