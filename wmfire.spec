@@ -1,12 +1,11 @@
 Summary:	Program that displays CPU load as fire in a small icon
-Summary(pl):	Aplet pokazuj±cy obci¿enie CPU w malym okienku
+Summary(pl):	Aplet pokazuj±cy obci±¿enie CPU w ma³ym okienku
 Name:		wmfire
 Version:	0.0.3.9pre4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Multimedia
 Source0:	%{name}-%{version}.tar.bz2
-URL:		http://www.zebra.net/~dm/wmfire
 BuildRequires:	XFree86-devel
 BuildRequires:	autoconf
 BuildRequires:	automake
@@ -23,8 +22,11 @@ can even set it to display your motherboard temperature through
 lm_sensors.
 
 %description -l pl
-wmfire jest apletem pod X który generuje ogieñ  w zale¿no¶ci od stopnia
-u¿ycia procesora 
+wmfire jest apletem dla Window Makera pokazuj±cym wygenerowany ogieñ
+w zale¿no¶ci od stopnia obci±¿enia systemu lub liczby w jakim¶ pliku.
+Nieznacznie obci±¿a procesor, wy¶wietla niebieskie, pomarañczowe lub
+czerwone p³omienie, mo¿e wy¶wietlaæ tak¿e temperaturê p³yty g³ównej
+poprzez lm_sensors.
 
 %prep
 %setup -q
