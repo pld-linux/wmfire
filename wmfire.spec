@@ -6,6 +6,7 @@ Release:	2
 License:	GPL
 Group:		X11/Applications/Multimedia
 Source0:	%{name}-%{version}.tar.bz2
+# Source0-md5:	01e36a7b67e0f43a013166656cfd146c
 BuildRequires:	XFree86-devel
 BuildRequires:	autoconf
 BuildRequires:	automake
