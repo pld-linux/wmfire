@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=wmfire
+Name=WmFire
 Comment=CPU Monitor
 Comment[pl]=Monitor Procesora
 Exec=wmfire
