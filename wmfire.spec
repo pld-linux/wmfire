@@ -1,5 +1,5 @@
 Summary:	Program that displays CPU load as fire in a small icon
-Summary(pl):	Aplet pokazuj±cy obci±¿enie CPU w ma³ym okienku
+Summary(pl.UTF-8):   Aplet pokazujÄ…cy obciÄ…Å¼enie CPU w maÅ‚ym okienku
 Name:		wmfire
 Version:	1.2.2
 Release:	5
@@ -25,11 +25,11 @@ very little CPU. It has options for cyanish or orange/red flames, you
 can even set it to display your motherboard temperature through
 lm_sensors.
 
-%description -l pl
-wmfire jest apletem dla Window Makera pokazuj±cym wygenerowany ogieñ w
-zale¿no¶ci od stopnia obci±¿enia systemu lub liczby w jakim¶ pliku.
-Nieznacznie obci±¿a procesor, wy¶wietla niebieskie, pomarañczowe lub
-czerwone p³omienie, mo¿e wy¶wietlaæ tak¿e temperaturê p³yty g³ównej
+%description -l pl.UTF-8
+wmfire jest apletem dla Window Makera pokazujÄ…cym wygenerowany ogieÅ„ w
+zaleÅ¼noÅ›ci od stopnia obciÄ…Å¼enia systemu lub liczby w jakimÅ› pliku.
+Nieznacznie obciÄ…Å¼a procesor, wyÅ›wietla niebieskie, pomaraÅ„czowe lub
+czerwone pÅ‚omienie, moÅ¼e wyÅ›wietlaÄ‡ takÅ¼e temperaturÄ™ pÅ‚yty gÅ‚Ã³wnej
 poprzez lm_sensors.
 
 %prep
