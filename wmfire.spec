@@ -1,5 +1,5 @@
 Summary:	Program that displays CPU load as fire in a small icon
-Summary(pl.UTF-8):   Aplet pokazujący obciążenie CPU w małym okienku
+Summary(pl.UTF-8):	Aplet pokazujący obciążenie CPU w małym okienku
 Name:		wmfire
 Version:	1.2.2
 Release:	5
