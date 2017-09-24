@@ -1,14 +1,14 @@
 Summary:	Program that displays CPU load as fire in a small icon
 Summary(pl.UTF-8):	Aplet pokazujący obciążenie CPU w małym okienku
 Name:		wmfire
-Version:	1.2.3
-Release:	3
+Version:	1.2.4
+Release:	1
 License:	GPL
 Group:		X11/Window Managers/Tools
-Source0:	http://www.swanson.ukfsn.org/wmfire/%{name}-%{version}.tar.gz
-# Source0-md5:	e4bc647777f2181cf1b8e78bcc0850ee
+Source0:	http://www.improbability.net/wmfire/%{name}-%{version}.tar.gz
+# Source0-md5:	e0f298a542ce784806d3e8d1f555e51b
 Source1:	%{name}.desktop
-URL:		http://www.swanson.ukfsn.org/
+URL:		http://www.improbability.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	gtk+2-devel
